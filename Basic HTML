@@ -1,0 +1,70 @@
+<!-- basic elements of html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- gives title in the browser and not to the webpage -->
+<title>Chicken </title>     
+</head> 
+<body> 
+    <!-- use of heading level 1 for top of the heading at a predefined huge size -->
+<h1>
+    Chicken 
+    </h1>
+    
+    <!-- // use of bold // -->
+    For the <b>culinary</b> use of chickens
+    
+    <!-- ## use of paragraph##  -->
+    <p>
+    The culinary use of chickens, see Chicken as food. For other uses, 
+    see Chicken (disambiguation) and Chooks (disambiguation).
+    "Cockadoodledoo" and "Cocka-doodle-doo" 
+    redirect here. For the nursery rhyme, see Cock a doodle doo.
+    </p>
+    
+    <!-- use of heading level 2 at a predefined subheading size -->
+    <h2>
+    For the culinary
+    </h2> 
+    
+    <p> 
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Aliquid iusto quo sed ullam aliquam? Odit dolor molestias
+        ullam voluptatibus excepturi hic, quidem laborum porro assumenda 
+        eaque temporibus libero unde cumque?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum quidem porro perferendis eius n
+        ecessitatibus dolorem corporis maxime in voluptates ipsam ab, velit 
+        earum possimus praesentium ratione autem. Sed, neque impedit.
+        Pariatur voluptatem nisi, expedita minima, at ullam ducimus 
+        impedit laboriosam possimus ab similique quasi reiciendis ipsum eveniet 
+        culpa non, dolorem voluptate. Consectetur, hic? Eos maxime autem quis? 
+        Natus, nihil adipisci? Quos architecto reiciendis ea facere doloremque 
+        eveniet aliquam, eos impedit quidem placeat, aspernatur necessitatibus repellendus unde, earum iste sint id nam et labore! Quis labore est vero beatae culpa fugit!
+    </p>
+    
+    <!-- Lorem is the dummy content text when pressed used to insert dummy content 
+    can also *3 be used to increase the  times the text is placed --> -->
+    
+    <!-- different heading levels -->
+    <h3>For the culinary </h3>
+    <h4> For the culinary</h4>
+    <h5>For the culinary</h5>
+    <h6> For the culinary</h6>
+    
+ </body>   
+</html>
+
+<!-- BY pressing ! the default format of html can be obtained -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
